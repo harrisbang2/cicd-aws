@@ -5,7 +5,7 @@ import org.springframework.boot.runApplication
 /////
 
 @SpringBootApplication
-class CicdApplication
+class AWSApplication
 fun main(args: Array<String>) {
-	runApplication<CicdApplication>(*args)
+	runApplication<AWSApplication>(*args)
 }
